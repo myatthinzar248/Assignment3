@@ -1,0 +1,91 @@
+body{
+    margin: auto;
+    padding: auto;
+    background-color: rgb(226, 224, 224);
+}
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+h3{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.card{
+    width: 280px;
+    height: 75vh;
+    background-color: white;
+    border: 2px solid red;
+    margin-top: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.containerimg{
+    position: relative;
+    height: 150px;
+    color: white;
+    
+    
+
+}
+.txt1{
+    position: absolute;
+    top: 75%;
+    left:25%; 
+    letter-spacing: 4px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    fon
+    
+
+}
+.txt{
+    position: absolute;
+    top: 75%;
+    left:7%; 
+    letter-spacing: 4px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    fon
+    
+
+}
+img{
+    width: 100%;
+    height: 150px;
+}
+.section{
+    display: flex;
+    height: 80px;
+   
+   
+}
+h4{
+    text-transform: uppercase;
+    color: black;
+    width: 50%;
+    background-color: white;    
+    margin-top: 0px;
+    text-align: center;
+   padding-top: 10px;
+    
+}
+p{
+    padding: 3px 3px;
+    text-align: center;
+}
+button{
+    width: 110px;
+    height: 40px;
+    background-color: rgb(209, 30, 60);
+    color: aliceblue;
+    align-items: center;
+    margin: 0px 90px;
+}
+.bgcolor{
+    width: auto;
+    height: 5px;
+    background-color: rgb(209, 30, 60);
+    
+}
